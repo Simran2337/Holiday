@@ -1,0 +1,18 @@
+.header-block {
+    justify-content: space-around;
+    display: flex !important;
+    box-shadow: 5px 3px 10px rgb(114, 114, 114);
+    background-color: black;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    padding: 5px;
+}
+
+.heading {
+    font-size: 35px;
+}
+
+.header-name {
+    flex: 1;
+}
